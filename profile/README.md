@@ -1,6 +1,6 @@
 ## 👋 Hey there
 
-![Illustration.](https://hoyo.tech/og.png)
+![image](https://github.com/Hoyo-Tech/.github/assets/22680785/bad8204b-4f43-45ac-ab53-a30e49c9120f)
 
 At Hoyo Tech, we're dedicated to innovating the future of smart living and efficient fleet management. Since our founding, we've been at the forefront of creating in-house products like **Hoyo Home**, a leading smart home system, and comprehensive solutions for fleet management. Beyond our products, we offer end-to-end software solutions and consulting services, tailored to meet the unique needs of any company and industry.
 
